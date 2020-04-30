@@ -1,0 +1,19 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.19t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files\Java\jre7\bin\plugin2\npjp2.dll|$
+1586849697754|$
+C:\Program Files\Java\jre7\bin\dtplugin\npdeployJava1.dll|$
+1586849697713|$
+C:\PROGRA~1\MICROS~1\Office14\NPAUTHZ.DLL|$
+1263047908000|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
+1536782220000|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
+1536782220000|$
